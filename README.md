@@ -9,19 +9,19 @@ The scanner uses a TCP socket to connect to every port in the given range that t
 
 ## Example 1 - Basic Range Scan
 
-![Basic Scan](Basic Scan.png)
+![Basic Scan](Basic-Scan.png)
 
 I scanned my local lab machine showing that SSH (port 22) is detected as open.
 
 ## Example 2 - Multiple Service Detection
 
-![Multiple Services](Multiple Service Detected.png)
+![Multiple Services](Multiple-Service-Detected.png)
 
 Scanned my lab again showing that it has the ability to detect multiple active services I host.
 
 ## Example 3 - Error Handling
 
-![Error Handling](Error Handling.png)
+![Error Handling](Error-Handling.png)
 
 Basic input validation is included to handle invalid inputs. Typing letters where port numbers are expected to be wont crash the program and prompt the user a error message.
 
