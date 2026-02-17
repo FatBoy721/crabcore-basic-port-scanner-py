@@ -1,3 +1,4 @@
+![Learning Project](https://img.shields.io/badge/Status-Learning_Project-orange) ![Python](https://img.shields.io/badge/Python-3.x-blue)
 # FatBoy721 – Port Scanner 🦀
 ## Project Overview
 
