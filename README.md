@@ -1,2 +1,4 @@
 # crabcore-basic-port-scanner-py
-Learning project: a simple TCP port scanner written in python.
+#Project Overview
+
+A basic TCP port scanner written in Python to explore/learn socket programming, TCP connections and port states
