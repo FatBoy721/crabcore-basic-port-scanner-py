@@ -1,4 +1,4 @@
-# crabcore-basic-port-scanner-py
+# FatBoy721 – Crabcore Port Scanner 🦀
 ## Project Overview
 
 A basic TCP port scanner written in Python to explore/learn socket programming, TCP connections and port states.
